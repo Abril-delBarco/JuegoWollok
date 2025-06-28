@@ -1,0 +1,13 @@
+import wollok.game.*
+import ejemplo.*
+import nivel.*
+program juegoLaberinto {
+    game.title("Mi Laberinto de Rata")
+    game.width(17) 
+    game.height(9) 
+    game.cellSize(50)
+    game.ground("bloque.png")
+
+    nivel.iniciar()
+    game.start()
+}
