@@ -2582,3 +2582,14 @@
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed mainExample.juegoLaberinto on c:\\Users\\domin\\OneDrive\\Escritorio\\proyectos\\ejemplo","timeElapsed":34468,"timestamp":"2025-06-28T17:45:14.150Z"}
 {"level":"info","message":"🚀 Program executed \u001b[3m\u001b[34mmainExample.juegoLaberinto\u001b[39m\u001b[23m on \u001b[3m\u001b[34mc:\\Users\\domin\\OneDrive\\Escritorio\\proyectos\\ejemplo\u001b[39m\u001b[23m","ok":true,"timeElapsed":896,"timestamp":"2025-06-28T17:46:28.962Z"}
 {"exitCode":"SIGHUP","level":"info","message":"👾 Game executed mainExample.juegoLaberinto on c:\\Users\\domin\\OneDrive\\Escritorio\\proyectos\\ejemplo","timeElapsed":27764,"timestamp":"2025-06-28T17:46:55.828Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":289,"timestamp":"2025-06-29T23:54:31.532Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":271,"timestamp":"2025-06-29T23:54:31.811Z"}
+{"level":"info","message":"⌛ Validating ejemplo.wlk","timeElapsed":464,"timestamp":"2025-06-29T23:54:32.322Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":216,"timestamp":"2025-06-29T23:54:32.539Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":180,"timestamp":"2025-06-29T23:54:32.764Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":173,"timestamp":"2025-06-29T23:54:33.015Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":136,"timestamp":"2025-06-29T23:54:33.152Z"}
+{"level":"info","message":"⌛ Validating ejemplo.wlk","timeElapsed":167,"timestamp":"2025-06-29T23:54:33.320Z"}
+{"level":"info","message":"⌛ Validating nivel.wlk","timeElapsed":124,"timestamp":"2025-06-29T23:54:33.443Z"}
+{"level":"info","message":"⌛ Validating proyectil.wlk","timeElapsed":147,"timestamp":"2025-06-29T23:54:33.617Z"}
+{"level":"info","message":"⌛ Validating mainExample.wpgm","timeElapsed":130,"timestamp":"2025-06-29T23:54:33.747Z"}
